@@ -1,4 +1,4 @@
-7
+
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Junior back-end developer</h3>
 
@@ -18,6 +18,5 @@
 <h3 align="left">Connect with me:3</h3>
 <p align="left">
 <a href="https://fb.com/100082061636989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah" height="30" width="40" /></a>
-
 <a href="https://wa.me/6282349915082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdullah" height="30" width="40" /></a>
 
