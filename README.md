@@ -26,5 +26,6 @@
 <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://phpmyadmin.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://zetcode.com/javascript/axios/" target="_blank"> <img src="https://raw.githubusercontent.com/sadvibes1/sadvibes1/main/images/axios.png" alt="bootstrap" width="50" height="50"/> </a>
 
