@@ -32,5 +32,3 @@
 <a href="https://phpmyadmin.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://zetcode.com/javascript/axios/" target="_blank"> <img src="https://raw.githubusercontent.com/sadvibes1/sadvibes1/main/images/axios.png" alt="bootstrap" width="50" height="50"/> </a>
-
