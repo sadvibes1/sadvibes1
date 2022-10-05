@@ -5,7 +5,7 @@
 - 🔭 I’m currently freelancing web automation - scraper and web development
 -  🌱 I’m learning **Python (3.9.7)**, **nodejs (18.4.0)**, **php (7.4.30)**
 
-- 🔰 All of my projects are available at [https://api.herokuapp.com/](https://-api.herokuapp.com/)
+- 🔰 All of my projects are available at
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadvibes1&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah" /> </p>
 
@@ -30,6 +30,5 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://phpmyadmin.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
