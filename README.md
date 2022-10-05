@@ -30,5 +30,4 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://phpmyadmin.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
